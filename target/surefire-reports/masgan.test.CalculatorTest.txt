@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: masgan.test.CalculatorTest
+---------------------------------------------------------------------------------------------------------------
+Test set: masgan.test.CalculatorTest
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 0, Errors: 1, Skipped: 1, Time elapsed: 0.104 s <<< FAILURE! - in masgan.test.CalculatorTest
+testDivideFailed  Time elapsed: 0.016 s  <<< ERROR!
+java.lang.IllegalArgumentException: Can't divide by zero
+	at masgan.test.CalculatorTest.testDivideFailed(CalculatorTest.java:40)
+
